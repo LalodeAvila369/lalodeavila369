@@ -70,13 +70,6 @@ I work at the intersection of **research and applied AI**, designing and evaluat
 
 ---
 
-### 📊 GitHub Activity
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LalodeAvila369"/>
-
-
----
-
 ### 🔗 Connect
 
 <p align="center">
