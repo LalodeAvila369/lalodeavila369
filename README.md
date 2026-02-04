@@ -71,12 +71,13 @@ I work at the intersection of **research and applied AI**, designing and evaluat
 ---
 
 ### 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LalodeAvila369&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LalodeAvila369&show_icons=true&theme=dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalodeAvila369&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalodeAvila369&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 ---
