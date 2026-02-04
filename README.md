@@ -93,10 +93,14 @@ I work at the intersection of **research and applied AI**, designing and evaluat
   <a href="https://scholar.google.es/citations?user=3j4KFhcAAAAJ&hl=es&oi=ao" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white"/>
   </a>
+  <a href="https://www.researchgate.net/profile/Eduardo-De-Avila-Armenta?ev=hdr_xprf" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white"/>
+  </a>
   <a href="mailto:eddeav98@gmail.com">
     <img src="https://img.shields.io/badge/Email-eddeav98%40gmail.com-red"/>
   </a>
 </p>
+
 
 ---
 
